@@ -7,11 +7,11 @@ import java.lang.*;
 
 public class Day1 {
     public static void swap2No(int a , int b){
-        // int temp ; 
-        // temp = a ;
-        // a = b ;
-        // b = temp;
-        Collection.swap(a,b);
+        int temp ; 
+        temp = a ;
+        a = b ;
+        b = temp;
+        // Collection.swap(a,b);//do search for more
         System.out.println("numbers after swap are : "+a+" and "+b);
     }
     // public static void printNaturalNo(int num){
