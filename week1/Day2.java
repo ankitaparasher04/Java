@@ -1,3 +1,4 @@
+package week1;
 //loops
 
 //intigers from 1 to n

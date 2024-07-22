@@ -1,3 +1,4 @@
+package week1;
 //continue pattern questions <<<<<<<<<<<<------------>>>>>>>>>>>>-------->>>>>>
 
 import java.util.Scanner;

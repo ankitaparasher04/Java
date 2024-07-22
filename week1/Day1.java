@@ -1,4 +1,4 @@
-// package Day1.java;
+package week1;
 import java.util.*;
 public class Day1 {
     public static void main (String arg[]){

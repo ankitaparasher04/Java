@@ -1,3 +1,4 @@
+package week1;
 //pattern : question *****************coding blok********************
 
 import java.util.Scanner;
